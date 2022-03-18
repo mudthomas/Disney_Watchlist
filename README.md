@@ -68,8 +68,8 @@
 - [x] A Bug's Life	(1998)
 - [x] Toy Story 2	(1999)
 - [x] Monsters, Inc.	(2001)
-- [ ] Finding Nemo	(2003)
-- [ ] The Incredibles	(2004)
+- [x] Finding Nemo	(2003)
+- [x] The Incredibles	(2004)
 - [x] Cars	(2006)
 - [x] Ratatouille	(2007)
 - [x] WALL-E	(2008)
@@ -83,15 +83,15 @@
 <details>
 <summary>Theatrical</summary>
 
-- [ ] DuckTales the Movie: Treasure of the Lost Lamp	(1990)
+- [x] DuckTales the Movie: Treasure of the Lost Lamp	(1990)
 - [x] A Goofy Movie	(1995)
-- [ ] Doug's 1st Movie	(1999)
-- [ ] The Tigger Movie	(2000)
-- [ ] Recess: School's Out	(2001)
-- [ ] Return to Never Land	(2002)
-- [ ] The Jungle Book 2	(2003)
-- [ ] Piglet's Big Movie	(2003)
-- [ ] Teacher's Pet	(2004)
+- [x] Doug's 1st Movie	(1999)
+- [x] The Tigger Movie	(2000)
+- [x] Recess: School's Out	(2001)
+- [x] Return to Never Land	(2002)
+- [x] The Jungle Book 2	(2003)
+- [x] Piglet's Big Movie	(2003)
+- [x] Teacher's Pet	(2004)
 - [ ] Pooh's Heffalump Movie	(2005)
 - [ ] Planes	(2013)
 </details>
@@ -115,6 +115,7 @@
 - [ ] Raya and the Last Dragon	(2021)
 - [ ] Encanto	(2021)
 - [ ] Diary of a Wimpy Kid	(2021)
+- [ ] The Ice Age Adventures of Buck Wild 	(2022)
 </details>
 
 <details>
@@ -130,6 +131,7 @@
 - [ ] Onward	(2020)
 - [ ] Soul	(2020)
 - [ ] Luca	(2021)
+- [ ] Turning Red	(2022)
 </details>
 
 <details>
