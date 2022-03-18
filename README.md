@@ -1,4 +1,5 @@
 -- Gamla listan --
+
 <details>
 <summary>Official canon</summary>
 
@@ -49,7 +50,6 @@
 - [x] Home on the Range	(2004)
 - [x] Chicken Little	(2005)
 - [x] Meet the Robinsons	(2007)
-- [x] October 28, 2008 (DTV)
 - [x] Bolt	(2008)
 - [x] The Princess and the Frog	(2009)
 - [x] Tangled	(2010)
@@ -97,8 +97,6 @@
 </details>
 
 
-
-
 -- Nya listan --
 
 <details>
@@ -115,7 +113,6 @@
 - [ ] Raya and the Last Dragon	(2021)
 - [ ] Encanto	(2021)
 - [ ] Diary of a Wimpy Kid	(2021)
-- [ ] The Ice Age Adventures of Buck Wild 	(2022)
 </details>
 
 <details>
@@ -131,12 +128,12 @@
 - [ ] Onward	(2020)
 - [ ] Soul	(2020)
 - [ ] Luca	(2021)
-- [ ] Turning Red	(2022)
+- [ ] Turning Red	((202)
 </details>
 
 <details>
 <summary>Sequels and spin-offs</summary>
-
+- [ ] The Little Mermaid II: Return to the Sea	((2000))
 - [ ] Lady and the Tramp II: Scamp's Adventure	(2001)
 - [ ] Cinderella II: Dreams Come True	(2002)
 - [ ] The Hunchback of Notre Dame II	(2002)

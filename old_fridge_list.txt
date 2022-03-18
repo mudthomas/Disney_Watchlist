@@ -1,0 +1,99 @@
+-- Gamla listan --
+
+<details>
+<summary>Official canon</summary>
+
+Snow White and the Seven Dwarfs	Y	1937
+Pinocchio	Y	1940
+Fantasia	N	1940
+Dumbo	Y	1941
+Bambi	Y	1942
+Saludos Amigos	Y	1943
+The Three Caballeros	Y	1945
+Make Mine Music	Y	1946
+Fun and Fancy Free	Y	1947
+Melody Time	Y	1948
+The Adventures of Ichabod and Mr. Toad	Y	1949
+Cinderella	Y	1950
+Alice in Wonderland	Y	1951
+Peter Pan	Y	1953
+Lady and the Tramp	Y	1955
+Sleeping Beauty	Y	1959
+One Hundred and One Dalmatians	Y	1961
+The Sword in the Stone	Y	1963
+The Jungle Book	Y	1967
+The Aristocats	Y	1970
+Robin Hood	Y	1973
+The Many Adventures of Winnie the Pooh	Y	1977
+The Rescuers	Y	1977
+The Fox and the Hound	Y	1981
+The Black Cauldron	Y	1985
+The Great Mouse Detective	Y	1986
+Oliver & Company	Y	1988
+The Little Mermaid	Y	1989
+The Rescuers Down Under	Y	1990
+Beauty and the Beast	Y	1991
+Aladdin	Y	1992
+The Lion King	Y	1994
+Pocahontas	Y	1995
+The Hunchback of Notre Dame	Y	1996
+Hercules	Y	1997
+Mulan	Y	1998
+Tarzan	Y	1999
+Fantasia 2000	N	2000
+Dinosaur	Y	2000
+The Emperor's New Groove	Y	2000
+Atlantis: The Lost Empire	Y	2001
+Lilo & Stitch	Y	2002
+Treasure Planet	Y	2002
+Brother Bear	Y	2003
+Home on the Range	Y	2004
+Chicken Little	Y	2005
+Meet the Robinsons	Y	2007
+Bolt	Y	2008
+The Princess and the Frog	Y	2009
+Tangled	Y	2010
+Winnie the Pooh	Y	2011
+Wreck-It Ralph	Y	2012
+Frozen	Y	2013
+Big Hero 6	Y	2014
+Zootopia	Y	2016
+Moana	Y	2016
+</details>
+
+<details>
+<summary>Pixar</summary>
+
+Toy Story	Y	1995
+A Bug's Life	Y	1998
+Toy Story 2	Y	1999
+Monsters, Inc.	Y	2001
+Finding Nemo	Y	2003
+The Incredibles	Y	2004
+Cars	Y	2006
+Ratatouille	Y	2007
+WALL-E	Y	2008
+Up	Y	2009
+Toy Story 3	Y	2010
+Cars 2	Y	2011
+Brave	Y	2012
+Monsters University	N	2013
+</details>
+
+<details>
+<summary>Theatrical</summary>
+
+DuckTales the Movie: Treasure of the Lost Lamp	Y	1990
+A Goofy Movie	Y	1995
+Doug's 1st Movie	Y	1999
+The Tigger Movie	Y	2000
+Recess: School's Out	Y	2001
+Return to Never Land	Y	2002
+The Jungle Book 2	Y	2003
+Piglet's Big Movie	Y	2003
+Teacher's Pet	Y	2004
+Pooh's Heffalump Movie	N	2005
+Planes	N	2013
+</details>
+
+
