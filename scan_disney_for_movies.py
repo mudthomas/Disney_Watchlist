@@ -43,13 +43,12 @@ for line in new_fridge_list:
         year = data[2].split('\n')[0]
         new_fridge_data.append([title, is_watched, year])
 
-ignored_list = open('ignored.txt', 'r')
+ignored_list = open('ignored_movies.txt', 'r')
 ignored_data = []
 for line in ignored_list:
     data = line.split('\t')
     if len(data) == 3:
         title = data[0]
-        print(title)
         is_watched = data[1] == 'Y'
         year = data[2].split('\n')[0]
         ignored_data.append([title, is_watched, year])
@@ -66,19 +65,15 @@ for line in oldfile:
         line = ' '.join(temp)
     data = line.split('\t')
     if(len(data)) == 1:
-        print(line)
         cleanfile.write(line)
     elif len(data) >= 3 and data[0] != 'Title':
         movie_type, title, date = data[0], data[1], data[2]
         title = title.split("[")[0]
         title = title.strip()
         if not inOldFridgeList(title) and not inNewFridgeList(title) and not inIgnoreList(title):
-            try:
-                year = date.split(', ')[1]
-                if len(year) >= 4:
-                    year = year[:4]
-            except:
-                bad_data_list.append(line)
+            year = date.split(', ')[1]
+            if len(year) >= 4:
+                year = year[:4]
             cleanfile.write(movie_type+'\t'+title+'\t('+year+')\n')
             if movie_type == 'L':
                 live_action_list.append([title, False, year])
@@ -90,16 +85,16 @@ for line in oldfile:
                 elif movie_type == "H":
                     half_animated_list.append([title, False, year])
     elif data[0] != 'Title':
-        print(data)
         title = data[1]
         title = title.split("[")[0]
         title = title.split("\n")[0]
         title = title.split("\t")[0]
         title = title.strip()
         if not inOldFridgeList(title) and not inNewFridgeList(title) and not inIgnoreList(title):
-
-            bad_data_list.append(title+"\n")
-
+            bad_data_list.append(line)
+            bad_data_list.append("### Attempted fix: ###")
+            bad_data_list.append(title+"\tN\t(XXXX)\n")
+            bad_data_list.append("### ############## ###")
 
 if len(animated_list) > 0:
     unlisted.write("-- Animated --\n")
@@ -126,11 +121,9 @@ if len(bad_data_list) > 0:
     for line in bad_data_list:
         unlisted.write(line)
 
-
 oldfile.close()
 cleanfile.close()
 unlisted.close()
-
 old_fridge_list.close()
 new_fridge_list.close()
 ignored_list.close()
