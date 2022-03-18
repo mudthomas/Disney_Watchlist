@@ -49,6 +49,7 @@ for line in ignored_list:
     data = line.split('\t')
     if len(data) == 3:
         title = data[0]
+        print(title)
         is_watched = data[1] == 'Y'
         year = data[2].split('\n')[0]
         ignored_data.append([title, is_watched, year])
@@ -57,38 +58,48 @@ live_action_list = []
 documentaries_list = []
 animated_list = []
 half_animated_list = []
-
+bad_data_list = []
 badchars = ['‡', '†', '§', '*']
 for line in oldfile:
+    for char in badchars:
+        temp = line.split(char)
+        line = ' '.join(temp)
     data = line.split('\t')
     if(len(data)) == 1:
         print(line)
         cleanfile.write(line)
-    elif len(data) >= 3:
+    elif len(data) >= 3 and data[0] != 'Title':
         movie_type, title, date = data[0], data[1], data[2]
-        for char in badchars:
-            temp = title.split(char)
-            title = ' '.join(temp)
         title = title.split("[")[0]
         title = title.strip()
-        try:
-            year = date.split(', ')[1]
-            if len(year) >= 4:
-                year = year[:4]
-        except:
-            print(' ')
-        cleanfile.write(movie_type+'\t'+title+'\t('+year+')\n')
-        if movie_type == 'L' and not inIgnoreList(title):
-            live_action_list.append([title, False, year])
-        elif (movie_type == 'D' or movie_type == 'N') and not inIgnoreList(title):
-            documentaries_list.append([title, False, year])
-        else:
-            if not inOldFridgeList(title) and not inNewFridgeList(title) and not inIgnoreList(title):
-                print(title)
+        if not inOldFridgeList(title) and not inNewFridgeList(title) and not inIgnoreList(title):
+            try:
+                year = date.split(', ')[1]
+                if len(year) >= 4:
+                    year = year[:4]
+            except:
+                bad_data_list.append(line)
+            cleanfile.write(movie_type+'\t'+title+'\t('+year+')\n')
+            if movie_type == 'L':
+                live_action_list.append([title, False, year])
+            elif (movie_type == 'D' or movie_type == 'N'):
+                documentaries_list.append([title, False, year])
+            else:
                 if movie_type == "A":
                     animated_list.append([title, False, year])
                 elif movie_type == "H":
                     half_animated_list.append([title, False, year])
+    elif data[0] != 'Title':
+        print(data)
+        title = data[1]
+        title = title.split("[")[0]
+        title = title.split("\n")[0]
+        title = title.split("\t")[0]
+        title = title.strip()
+        if not inOldFridgeList(title) and not inNewFridgeList(title) and not inIgnoreList(title):
+
+            bad_data_list.append(title+"\n")
+
 
 if len(animated_list) > 0:
     unlisted.write("-- Animated --\n")
@@ -101,7 +112,7 @@ if len(half_animated_list) > 0:
         unlisted.write(movie[0]+'\tN\t('+movie[2]+')\n')
 
 if len(live_action_list) > 0:
-    unlisted.write("-- Live Action --\n")
+    unlisted.write("\n-- Live Action --\n")
     for movie in live_action_list:
         unlisted.write(movie[0]+'\tN\t('+movie[2]+')\n')
 
@@ -109,6 +120,12 @@ if len(documentaries_list) > 0:
     unlisted.write("\n-- Documentaries --\n")
     for movie in documentaries_list:
         unlisted.write(movie[0]+'\tN\t('+movie[2]+')\n')
+
+if len(bad_data_list) > 0:
+    unlisted.write("\n-- Lines of bad data --\n")
+    for line in bad_data_list:
+        unlisted.write(line)
+
 
 oldfile.close()
 cleanfile.close()

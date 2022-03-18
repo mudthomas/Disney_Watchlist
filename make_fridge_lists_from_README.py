@@ -1,7 +1,6 @@
 old_list = open('README.md', 'r')
 checked_list1 = open('old_fridge_list.txt', 'w')
 checked_list2 = open('new_fridge_list.txt', 'w')
-
 checked_list1.write("-- Gamla listan --\n")
 checked_list2.write("-- Nya listan --\n")
 
@@ -16,9 +15,9 @@ for line in old_list:
         if len(data) == 2:
             year = data[1][1:5]
             if movie_is_watched:
-                new_line = title + "\tY\t" + year +"\n"
+                new_line = title + "\tY\t" + year + "\n"
             else:
-                new_line = title + "\tN\t" + year +"\n"
+                new_line = title + "\tN\t" + year + "\n"
             if new_flag:
                 checked_list2.write(new_line)
             else:

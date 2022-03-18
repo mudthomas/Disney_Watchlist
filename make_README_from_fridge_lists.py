@@ -7,7 +7,7 @@ for line in old_list1:
     data = line.split('\t')
     if len(data) == 3:
         title = data[0]
-        is_watched = data[1]=='Y'
+        is_watched = data[1] == 'Y'
         year = data[2].split('\n')[0]
         if is_watched:
             checked_list.write('- [x] '+title+'\t('+year+")\n")
@@ -20,7 +20,7 @@ for line in old_list2:
     data = line.split('\t')
     if len(data) == 3:
         title = data[0]
-        is_watched = data[1]=='Y'
+        is_watched = data[1] == 'Y'
         year = data[2].split('\n')[0]
         if is_watched:
             checked_list.write('- [x] '+title+'\t('+year+")\n")
