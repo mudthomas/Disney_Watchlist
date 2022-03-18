@@ -133,7 +133,8 @@
 
 <details>
 <summary>Sequels and spin-offs</summary>
-- [ ] The Little Mermaid II: Return to the Sea	((2000))
+
+- [ ] The Little Mermaid II: Return to the Sea	((200)
 - [ ] Lady and the Tramp II: Scamp's Adventure	(2001)
 - [ ] Cinderella II: Dreams Come True	(2002)
 - [ ] The Hunchback of Notre Dame II	(2002)
