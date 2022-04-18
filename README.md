@@ -5,7 +5,7 @@
 
 - [x] Snow White and the Seven Dwarfs	(1937)
 - [x] Pinocchio	(1940)
-- [ ] Fantasia	(1940)
+- [x] Fantasia	(1940)
 - [x] Dumbo	(1941)
 - [x] Bambi	(1942)
 - [x] Saludos Amigos	(1943)
@@ -40,7 +40,7 @@
 - [x] Hercules	(1997)
 - [x] Mulan	(1998)
 - [x] Tarzan	(1999)
-- [ ] Fantasia 2000	(2000)
+- [x] Fantasia 2000	(2000)
 - [x] Dinosaur	(2000)
 - [x] The Emperor's New Groove	(2000)
 - [x] Atlantis: The Lost Empire	(2001)
@@ -77,7 +77,7 @@
 - [x] Toy Story 3	(2010)
 - [x] Cars 2	(2011)
 - [x] Brave	(2012)
-- [ ] Monsters University	(2013)
+- [x] Monsters University	(2013)
 </details>
 
 <details>
@@ -92,8 +92,8 @@
 - [x] The Jungle Book 2	(2003)
 - [x] Piglet's Big Movie	(2003)
 - [x] Teacher's Pet	(2004)
-- [ ] Pooh's Heffalump Movie	(2005)
-- [ ] Planes	(2013)
+- [x] Pooh's Heffalump Movie	(2005)
+- [x] Planes	(2013)
 </details>
 
 
@@ -111,7 +111,7 @@
 - [ ] Arjun: The Warrior Prince	(2012)
 - [ ] Frankenweenie	(2012)
 - [ ] Raya and the Last Dragon	(2021)
-- [ ] Encanto	(2021)
+- [x] Encanto	(2021)
 - [ ] Diary of a Wimpy Kid	(2021)
 </details>
 
