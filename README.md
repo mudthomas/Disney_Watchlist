@@ -118,7 +118,7 @@
 <details>
 <summary>Pixar</summary>
 
-- [ ] Inside Out	(2015)
+- [x] Inside Out	(2015)
 - [ ] The Good Dinosaur	(2015)
 - [ ] Finding Dory	(2016)
 - [ ] Cars 3	(2017)
