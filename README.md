@@ -125,7 +125,7 @@
 - [ ] Coco	(2017)
 - [ ] Incredibles 2	(2018)
 - [ ] Toy Story 4	(2019)
-- [ ] Onward	(2020)
+- [x] Onward	(2020)
 - [ ] Soul	(2020)
 - [ ] Luca	(2021)
 - [ ] Turning Red	(2022)
