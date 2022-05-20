@@ -5,7 +5,7 @@
 
 Snow White and the Seven Dwarfs	Y	1937
 Pinocchio	Y	1940
-Fantasia	N	1940
+Fantasia	Y	1940
 Dumbo	Y	1941
 Bambi	Y	1942
 Saludos Amigos	Y	1943
@@ -40,7 +40,7 @@ The Hunchback of Notre Dame	Y	1996
 Hercules	Y	1997
 Mulan	Y	1998
 Tarzan	Y	1999
-Fantasia 2000	N	2000
+Fantasia 2000	Y	2000
 Dinosaur	Y	2000
 The Emperor's New Groove	Y	2000
 Atlantis: The Lost Empire	Y	2001
@@ -77,7 +77,7 @@ Up	Y	2009
 Toy Story 3	Y	2010
 Cars 2	Y	2011
 Brave	Y	2012
-Monsters University	N	2013
+Monsters University	Y	2013
 </details>
 
 <details>
@@ -92,8 +92,8 @@ Return to Never Land	Y	2002
 The Jungle Book 2	Y	2003
 Piglet's Big Movie	Y	2003
 Teacher's Pet	Y	2004
-Pooh's Heffalump Movie	N	2005
-Planes	N	2013
+Pooh's Heffalump Movie	Y	2005
+Planes	Y	2013
 </details>
 
 

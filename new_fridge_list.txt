@@ -12,21 +12,21 @@ Mars Needs Moms	N	2011
 Arjun: The Warrior Prince	N	2012
 Frankenweenie	N	2012
 Raya and the Last Dragon	N	2021
-Encanto	N	2021
+Encanto	Y	2021
 Diary of a Wimpy Kid	N	2021
 </details>
 
 <details>
 <summary>Pixar</summary>
 
-Inside Out	N	2015
-The Good Dinosaur	N	2015
+Inside Out	Y	2015
+The Good Dinosaur	Y	2015
 Finding Dory	N	2016
 Cars 3	N	2017
 Coco	N	2017
 Incredibles 2	N	2018
 Toy Story 4	N	2019
-Onward	N	2020
+Onward	Y	2020
 Soul	N	2020
 Luca	N	2021
 Turning Red	N	2022
