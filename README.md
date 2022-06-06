@@ -102,8 +102,8 @@
 <details>
 <summary>Animated</summary>
 
-- [ ] Mickey, Donald, Goofy: The Three Musketeers	(2004)
-- [ ] Mickey's Twice Upon a Christmas	(2004)
+- [ ] (DtV) Mickey, Donald, Goofy: The Three Musketeers	(2004)
+- [ ] (DtV, Sequel) Mickey's Twice Upon a Christmas	(2004)
 - [ ] Valiant	(2005)
 - [ ] The Wild	(2006)
 - [ ] Disney's A Christmas Carol	(2009)
@@ -112,7 +112,7 @@
 - [ ] Frankenweenie	(2012)
 - [ ] Raya and the Last Dragon	(2021)
 - [x] Encanto	(2021)
-- [ ] Diary of a Wimpy Kid	(2021)
+- [ ] (DtV) Diary of a Wimpy Kid	(2021)
 </details>
 
 <details>
