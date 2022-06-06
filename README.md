@@ -120,15 +120,15 @@
 
 - [x] Inside Out	(2015)
 - [x] The Good Dinosaur	(2015)
-- [ ] Finding Dory	(2016)
-- [ ] Cars 3	(2017)
+- [x] Finding Dory	(2016)
+- [x] Cars 3	(2017)
 - [ ] Coco	(2017)
 - [ ] Incredibles 2	(2018)
 - [ ] Toy Story 4	(2019)
 - [x] Onward	(2020)
 - [ ] Soul	(2020)
 - [ ] Luca	(2021)
-- [ ] Turning Red	(2022)
+- [x] Turning Red	(2022)
 </details>
 
 <details>
