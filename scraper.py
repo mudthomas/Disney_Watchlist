@@ -2,17 +2,20 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+
 def save_json(movie_list):
     with open('Movies.json', 'w') as movies_file:
         json.dump(movie_list, movies_file)
 
-def scrape_movies(old_list = False):
-    r = requests.get('https://en.wikipedia.org/wiki/List_of_Disney_theatrical_animated_feature_films')
+
+def scrape_movies(old_list=False):
+    r = requests.get(
+        'https://en.wikipedia.org/wiki/List_of_Disney_theatrical_animated_feature_films')
     soup = BeautifulSoup(r.content, 'html.parser')
 
-    s = soup.find('div', id= 'mw-content-text')
+    s = soup.find('div', id='mw-content-text')
 
-    tables = s.find('table',{"class":'wikitable'})
+    tables = s.find('table', {"class": 'wikitable'})
     items = tables.findAll('tr')
 
     categories = []
@@ -36,7 +39,7 @@ def scrape_movies(old_list = False):
     for i in range(len(categories)):
         print(f"{categories[i]}: {indicators[i]}")
 
-    tables = s.find('table',{"class":'wikitable sortable plainrowheaders'})
+    tables = s.find('table', {"class": 'wikitable sortable plainrowheaders'})
 
     items = tables.findAll('tr')
 
@@ -83,17 +86,19 @@ def scrape_movies(old_list = False):
                         if old_movie["Title"] == movie[0] and old_movie["Date"] == movie[1]:
                             watched_flag = old_movie["Watched"]
                             break
-                movie_dict = {'Title': movie[0], 'Date': movie[1], 'Link': movie[2], 'Category': categories[i], 'Watched': watched_flag}
+                movie_dict = {'Title': movie[0], 'Date': movie[1], 'Link': movie[2],
+                              'Category': categories[i], 'Watched': watched_flag}
                 movie_dict_list.append(movie_dict)
     else:
         for i in range(len(movies)):
             for movie in movies[i]:
-                movie_dict = {'Title': movie[0], 'Date': movie[1], 'Link': movie[2], 'Category': categories[i], 'Watched': False}
+                movie_dict = {'Title': movie[0], 'Date': movie[1],
+                              'Link': movie[2], 'Category': categories[i], 'Watched': False}
                 movie_dict_list.append(movie_dict)
     return movie_dict_list
 
 
-def check_if_watched(movie_list, check_all = False):
+def check_if_watched(movie_list, check_all=False):
     if check_all:
         for movie in movie_list:
             print(f"\nHave you watched {movie['Title']} ({movie['Date']}?")
@@ -112,7 +117,8 @@ def check_if_watched(movie_list, check_all = False):
     else:
         for movie in movie_list:
             if movie['Watched'] is False:
-                print(f"\nHave you watched {movie['Title']} ({movie['Date']})?")
+                print(
+                    f"\nHave you watched {movie['Title']} ({movie['Date']})?")
                 while True:
                     watched_flag = input("(Yes/No/Cancel): ")
                     watched_flag = watched_flag.lower()
@@ -174,13 +180,16 @@ def movies_from_README():
             line = line.replace(")\n", "*")
             if len(line.split("[ ]")) > 1:
                 data = line[7:-1].split("*")
-                movie_dict_list.append({'Title': data[0], 'Date': data[2], 'Link': data[1], 'Category': category, 'Watched': False})
+                movie_dict_list.append(
+                    {'Title': data[0], 'Date': data[2], 'Link': data[1], 'Category': category, 'Watched': False})
             elif len(line.split("[x]")) > 1:
                 data = line[7:-1].split("*")
-                movie_dict_list.append({'Title': data[0], 'Date': data[2], 'Link': data[1], 'Category': category, 'Watched': True})
+                movie_dict_list.append(
+                    {'Title': data[0], 'Date': data[2], 'Link': data[1], 'Category': category, 'Watched': True})
     old_readme.close()
     save_json(movie_dict_list)
     return movie_dict_list
+
 
 if __name__ == "__main__":
     Movies = get_movie_list()
