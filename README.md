@@ -65,7 +65,7 @@
 - [x] [Big Hero 6](https://en.wikipedia.org/wiki/Big_Hero_6_(film))	(November 7, 2014)
 - [x] [Zootopia](https://en.wikipedia.org/wiki/Zootopia)	(March 4, 2016)
 - [x] [Moana](https://en.wikipedia.org/wiki/Moana_(2016_film))	(November 23, 2016)
-- [ ] [Ralph Breaks the Internet](https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet)	(November 21, 2018)
+- [x] [Ralph Breaks the Internet](https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet)	(November 21, 2018)
 - [x] [Frozen II](https://en.wikipedia.org/wiki/Frozen_II)	(November 22, 2019)
 - [ ] [Raya and the Last Dragon](https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon)	(March 5, 2021)
 - [x] [Encanto](https://en.wikipedia.org/wiki/Encanto_(film))	(November 24, 2021)
