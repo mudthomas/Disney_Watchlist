@@ -117,7 +117,7 @@
 - [x] [Tinker Bell](https://en.wikipedia.org/wiki/Tinker_Bell_(film))	(September 18, 2008)
 - [x] [Tinker Bell and the Lost Treasure](https://en.wikipedia.org/wiki/Tinker_Bell_and_the_Lost_Treasure)	(September 3, 2009)
 - [x] [Tinker Bell and the Great Fairy Rescue](https://en.wikipedia.org/wiki/Tinker_Bell_and_the_Great_Fairy_Rescue)	(August 13, 2010 )
-- [ ] [Secret of the Wings](https://en.wikipedia.org/wiki/Secret_of_the_Wings)	(August 16, 2012)
+- [x] [Secret of the Wings](https://en.wikipedia.org/wiki/Secret_of_the_Wings)	(August 16, 2012)
 - [x] [Planes](https://en.wikipedia.org/wiki/Planes_(film))	(August 9, 2013)
 - [ ] [The Pirate Fairy](https://en.wikipedia.org/wiki/The_Pirate_Fairy)	(February 13, 2014)
 - [ ] [Planes: Fire & Rescue](https://en.wikipedia.org/wiki/Planes:_Fire_%26_Rescue)	(July 18, 2014)
