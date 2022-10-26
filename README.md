@@ -120,8 +120,8 @@
 - [x] [Secret of the Wings](https://en.wikipedia.org/wiki/Secret_of_the_Wings)	(August 16, 2012)
 - [x] [Planes](https://en.wikipedia.org/wiki/Planes_(film))	(August 9, 2013)
 - [x] [The Pirate Fairy](https://en.wikipedia.org/wiki/The_Pirate_Fairy)	(February 13, 2014)
-- [ ] [Planes: Fire & Rescue](https://en.wikipedia.org/wiki/Planes:_Fire_%26_Rescue)	(July 18, 2014)
-- [ ] [Tinker Bell and the Legend of the NeverBeast](https://en.wikipedia.org/wiki/Tinker_Bell_and_the_Legend_of_the_NeverBeast)	(March 3, 2015)
+- [x] [Planes: Fire & Rescue](https://en.wikipedia.org/wiki/Planes:_Fire_%26_Rescue)	(July 18, 2014)
+- [x] [Tinker Bell and the Legend of the NeverBeast](https://en.wikipedia.org/wiki/Tinker_Bell_and_the_Legend_of_the_NeverBeast)	(March 3, 2015)
 
 # Walt Disney Television Animation
 
