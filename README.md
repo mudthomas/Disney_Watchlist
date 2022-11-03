@@ -90,7 +90,7 @@
 - [x] [The Good Dinosaur](https://en.wikipedia.org/wiki/The_Good_Dinosaur)	(November 25, 2015)
 - [x] [Finding Dory](https://en.wikipedia.org/wiki/Finding_Dory)	(June 17, 2016)
 - [x] [Cars 3](https://en.wikipedia.org/wiki/Cars_3)	(June 16, 2017)
-- [ ] [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film))	(November 22, 2017)
+- [x] [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film))	(November 22, 2017)
 - [ ] [Incredibles 2](https://en.wikipedia.org/wiki/Incredibles_2)	(June 15, 2018)
 - [x] [Toy Story 4](https://en.wikipedia.org/wiki/Toy_Story_4)	(June 21, 2019)
 - [x] [Onward](https://en.wikipedia.org/wiki/Onward_(film))	(March 6, 2020)
