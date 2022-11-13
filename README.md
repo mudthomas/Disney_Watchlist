@@ -142,7 +142,7 @@
 # Other Disney studio
 
 - [ ] [The Nightmare Before Christmas](https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas)	(October 29, 1993)
-- [ ] [James and the Giant Peach](https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film))	(April 12, 1996)
+- [x] [James and the Giant Peach](https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film))	(April 12, 1996)
 - [ ] [A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol_(2009_film))	(November 3, 2009 )
 - [ ] [Mars Needs Moms](https://en.wikipedia.org/wiki/Mars_Needs_Moms)	(March 11, 2011)
 - [ ] [Arjun: The Warrior Prince](https://en.wikipedia.org/wiki/Arjun:_The_Warrior_Prince)	(May 25, 2012)
@@ -151,7 +151,7 @@
 
 # Third-party studio
 
-- [ ] [Who Framed Roger Rabbit](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit)	(June 22, 1988)
+- [x] [Who Framed Roger Rabbit](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit)	(June 22, 1988)
 - [ ] [Valiant](https://en.wikipedia.org/wiki/Valiant_(film))	(August 19, 2005)
 - [ ] [Roadside Romeo](https://en.wikipedia.org/wiki/Roadside_Romeo)	(October 24, 2008)
 - [ ] [Gnomeo & Juliet](https://en.wikipedia.org/wiki/Gnomeo_%26_Juliet)	(February 11, 2011)
