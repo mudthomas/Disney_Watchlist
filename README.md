@@ -1,5 +1,5 @@
 This is a checklist of Disney movies me and my wife has watched while eating waffles for Sunday breakfast.
-The movies are updated by scraping https://en.wikipedia.org/wiki/List_of_Disney_theatrical_animated_feature_films, retaining the 'watched' status that is updated by hand.
+The movies are updated by scraping [the wikipedia list of Disney theatrical releases](https://en.wikipedia.org/wiki/List_of_Disney_theatrical_animated_feature_films), retaining the 'watched' status that is updated by hand.
 
 
 # Walt Disney Productions
