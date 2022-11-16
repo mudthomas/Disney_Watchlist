@@ -135,6 +135,8 @@ def check_if_watched(movie_list, check_all=False):
 
 def make_README(movie_list):
     new_readme = open('README.md', 'w')
+    new_readme.write("This is a checklist of Disney movies me and my wife has watched while eating waffles for Sunday breakfast.\n")
+    new_readme.write("The movies are updated by scraping https://en.wikipedia.org/wiki/List_of_Disney_theatrical_animated_feature_films, retaining the 'watched' status that is updated by hand.\n\n")
     category = None
     for movie in movie_list:
         if not movie['Category'] == category:
