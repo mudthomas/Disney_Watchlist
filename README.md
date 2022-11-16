@@ -1,5 +1,7 @@
 This is a checklist of Disney movies me and my wife has watched while eating waffles for Sunday breakfast.
+
 The movies are updated by scraping a wikipedia list of Disney theatrical releases, retaining the 'watched' status that is updated by hand.
+
 
 # Walt Disney Productions
 
