@@ -144,10 +144,10 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 
 # Other Disney studio
 
-- [ ] [The Nightmare Before Christmas](https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas)	(October 29, 1993)
+- [x] [The Nightmare Before Christmas](https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas)	(October 29, 1993)
 - [x] [James and the Giant Peach](https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film))	(April 12, 1996)
-- [ ] [A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol_(2009_film))	(November 3, 2009 )
-- [ ] [Mars Needs Moms](https://en.wikipedia.org/wiki/Mars_Needs_Moms)	(March 11, 2011)
+- [x] [A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol_(2009_film))	(November 3, 2009 )
+- [x] [Mars Needs Moms](https://en.wikipedia.org/wiki/Mars_Needs_Moms)	(March 11, 2011)
 - [ ] [Arjun: The Warrior Prince](https://en.wikipedia.org/wiki/Arjun:_The_Warrior_Prince)	(May 25, 2012)
 - [ ] [Frankenweenie](https://en.wikipedia.org/wiki/Frankenweenie_(2012_film))	(October 5, 2012)
 - [ ] [Strange Magic](https://en.wikipedia.org/wiki/Strange_Magic_(film))	(January 23, 2015)
