@@ -94,7 +94,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 - [x] [Finding Dory](https://en.wikipedia.org/wiki/Finding_Dory)	(June 17, 2016)
 - [x] [Cars 3](https://en.wikipedia.org/wiki/Cars_3)	(June 16, 2017)
 - [x] [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film))	(November 22, 2017)
-- [ ] [Incredibles 2](https://en.wikipedia.org/wiki/Incredibles_2)	(June 15, 2018)
+- [x] [Incredibles 2](https://en.wikipedia.org/wiki/Incredibles_2)	(June 15, 2018)
 - [x] [Toy Story 4](https://en.wikipedia.org/wiki/Toy_Story_4)	(June 21, 2019)
 - [x] [Onward](https://en.wikipedia.org/wiki/Onward_(film))	(March 6, 2020)
 - [ ] [Soul](https://en.wikipedia.org/wiki/Soul_(2020_film))	(December 25, 2020)
@@ -103,7 +103,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 
 # 20th Century Fox Animation
 
-- [ ] [Spies in Disguise](https://en.wikipedia.org/wiki/Spies_in_Disguise)	(December 25, 2019)
+- [x] [Spies in Disguise](https://en.wikipedia.org/wiki/Spies_in_Disguise)	(December 25, 2019)
 - [ ] [Ron's Gone Wrong](https://en.wikipedia.org/wiki/Ron%27s_Gone_Wrong)	(October 22, 2021)
 - [ ] [The Bob's Burgers Movie](https://en.wikipedia.org/wiki/The_Bob%27s_Burgers_Movie)	(May 27, 2022)
 
