@@ -150,7 +150,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 - [x] [Mars Needs Moms](https://en.wikipedia.org/wiki/Mars_Needs_Moms)	(March 11, 2011)
 - [ ] [Arjun: The Warrior Prince](https://en.wikipedia.org/wiki/Arjun:_The_Warrior_Prince)	(May 25, 2012)
 - [x] [Frankenweenie](https://en.wikipedia.org/wiki/Frankenweenie_(2012_film))	(October 5, 2012)
-- [ ] [Strange Magic](https://en.wikipedia.org/wiki/Strange_Magic_(film))	(January 23, 2015)
+- [x] [Strange Magic](https://en.wikipedia.org/wiki/Strange_Magic_(film))	(January 23, 2015)
 
 # Third-party studio
 
