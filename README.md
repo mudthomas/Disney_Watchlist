@@ -70,7 +70,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 - [x] [Moana](https://en.wikipedia.org/wiki/Moana_(2016_film))	(November 23, 2016)
 - [x] [Ralph Breaks the Internet](https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet)	(November 21, 2018)
 - [x] [Frozen II](https://en.wikipedia.org/wiki/Frozen_II)	(November 22, 2019)
-- [ ] [Raya and the Last Dragon](https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon)	(March 5, 2021)
+- [x] [Raya and the Last Dragon](https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon)	(March 5, 2021)
 - [x] [Encanto](https://en.wikipedia.org/wiki/Encanto_(film))	(November 24, 2021)
 
 # Pixar Animation Studios
@@ -157,7 +157,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 - [x] [Who Framed Roger Rabbit](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit)	(June 22, 1988)
 - [ ] [Valiant](https://en.wikipedia.org/wiki/Valiant_(film))	(August 19, 2005)
 - [ ] [Roadside Romeo](https://en.wikipedia.org/wiki/Roadside_Romeo)	(October 24, 2008)
-- [ ] [Gnomeo & Juliet](https://en.wikipedia.org/wiki/Gnomeo_%26_Juliet)	(February 11, 2011)
+- [x] [Gnomeo & Juliet](https://en.wikipedia.org/wiki/Gnomeo_%26_Juliet)	(February 11, 2011)
 - [ ] [Christopher Robin](https://en.wikipedia.org/wiki/Christopher_Robin_(film))	(August 3, 2018)
 - [x] [Mary Poppins Returns](https://en.wikipedia.org/wiki/Mary_Poppins_Returns)	(December 19, 2018)
 - [ ] [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King_(2019_film))	(July 19, 2019)
