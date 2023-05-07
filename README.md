@@ -98,7 +98,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 - [x] [Toy Story 4](https://en.wikipedia.org/wiki/Toy_Story_4)	(June 21, 2019)
 - [x] [Onward](https://en.wikipedia.org/wiki/Onward_(film))	(March 6, 2020)
 - [ ] [Soul](https://en.wikipedia.org/wiki/Soul_(2020_film))	(December 25, 2020)
-- [ ] [Luca](https://en.wikipedia.org/wiki/Luca_(2021_film))	(June 18, 2021)
+- [x] [Luca](https://en.wikipedia.org/wiki/Luca_(2021_film))	(June 18, 2021)
 - [x] [Turning Red](https://en.wikipedia.org/wiki/Turning_Red)	(March 11, 2022)
 
 # 20th Century Fox Animation
