@@ -104,7 +104,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 # 20th Century Fox Animation
 
 - [x] [Spies in Disguise](https://en.wikipedia.org/wiki/Spies_in_Disguise)	(December 25, 2019)
-- [ ] [Ron's Gone Wrong](https://en.wikipedia.org/wiki/Ron%27s_Gone_Wrong)	(October 22, 2021)
+- [x] [Ron's Gone Wrong](https://en.wikipedia.org/wiki/Ron%27s_Gone_Wrong)	(October 22, 2021)
 - [ ] [The Bob's Burgers Movie](https://en.wikipedia.org/wiki/The_Bob%27s_Burgers_Movie)	(May 27, 2022)
 
 # Disney MovieToons
