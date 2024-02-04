@@ -34,7 +34,7 @@ The movies are updated by scraping [the wikipedia list of Disney theatrical rele
 - [x] [Robin Hood](https://en.wikipedia.org/wiki/Robin_Hood_(1973_film))	(November 8, 1973)
 - [x] [The Many Adventures of Winnie the Pooh](https://en.wikipedia.org/wiki/The_Many_Adventures_of_Winnie_the_Pooh)	(March 11, 1977)
 - [x] [The Rescuers](https://en.wikipedia.org/wiki/The_Rescuers)	(June 22, 1977)
-- [ ] [Pete's Dragon](https://en.wikipedia.org/wiki/Pete%27s_Dragon_(1977_film))	(November 3, 1977)
+- [x] [Pete's Dragon](https://en.wikipedia.org/wiki/Pete%27s_Dragon_(1977_film))	(November 3, 1977)
 - [x] [The Fox and the Hound](https://en.wikipedia.org/wiki/The_Fox_and_the_Hound_(film))	(July 10, 1981)
 - [x] [The Black Cauldron](https://en.wikipedia.org/wiki/The_Black_Cauldron_(film))	(July 26, 1985)
 - [x] [The Great Mouse Detective](https://en.wikipedia.org/wiki/The_Great_Mouse_Detective)	(July 2, 1986)
