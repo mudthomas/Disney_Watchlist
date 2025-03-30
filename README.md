@@ -6,8 +6,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 
 
 # [Walt Disney Productions](https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios)
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_large_square: | [Academy Award Review of Walt Disney Cartoons](https://en.wikipedia.org/wiki/Academy_Award_Review_of_Walt_Disney_Cartoons) | Theatrical | May 19, 1937 |
 | :white_check_mark: | [Snow White and the Seven Dwarfs](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)) | Theatrical | December 21, 1937 |
 | :white_check_mark: | [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio_(1940_film)) | Theatrical | February 7, 1940 |
@@ -81,8 +81,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Moana 2](https://en.wikipedia.org/wiki/Moana_2) | Theatrical | November 27, 2024 |
 
 # [Pixar Animation Studios](https://en.wikipedia.org/wiki/Pixar)
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_check_mark: | [Toy Story](https://en.wikipedia.org/wiki/Toy_Story) | Theatrical | November 22, 1995 |
 | :white_check_mark: | [A Bug's Life](https://en.wikipedia.org/wiki/A_Bug%27s_Life) | Theatrical | November 25, 1998 |
 | :white_check_mark: | [Toy Story 2](https://en.wikipedia.org/wiki/Toy_Story_2) | Theatrical | November 24, 1999 |
@@ -114,16 +114,16 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 
 
 # 20th Century Fox Animation
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_check_mark: | [Spies in Disguise](https://en.wikipedia.org/wiki/Spies_in_Disguise) | Theatrical | December 25, 2019 |
 | :white_check_mark: | [Ron's Gone Wrong](https://en.wikipedia.org/wiki/Ron%27s_Gone_Wrong) | Theatrical | October 22, 2021 |
 | :white_large_square: | [The Bob's Burgers Movie](https://en.wikipedia.org/wiki/The_Bob%27s_Burgers_Movie) | Theatrical | May 27, 2022 |
 
 # [Disneytoon Studios / Disney MovieToons](https://en.wikipedia.org/wiki/Disneytoon_Studios)
 
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_check_mark: | [DuckTales the Movie: Treasure of the Lost Lamp](https://en.wikipedia.org/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp) | Theatrical | August 3, 1990 |
 | :white_check_mark: | [A Goofy Movie](https://en.wikipedia.org/wiki/A_Goofy_Movie) | Theatrical | April 7, 1995 |
 | :white_check_mark: | [Return to Never Land](https://en.wikipedia.org/wiki/Return_to_Never_Land) | Theatrical | February 15, 2002 |
@@ -164,8 +164,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 
 
 # [Walt Disney Television Animation](https://en.wikipedia.org/wiki/Disney_Television_Animation)
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_large_square: | [The Return of Jafar](https://en.wikipedia.org/wiki/The_Return_of_Jafar) | Direct-To-Video | May 20, 1994 |
 | :white_large_square: | [Aladdin and the King of Thieves](https://en.wikipedia.org/wiki/Aladdin_and_the_King_of_Thieves) | Direct-To-Video | August 13, 1996 |
 | :white_large_square: | [Pooh's Grand Adventure: The Search for Christopher Robin](https://en.wikipedia.org/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin) | Direct-To-Video | August 5, 1997 |
@@ -183,8 +183,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Teacher's Pet](https://en.wikipedia.org/wiki/Teacher%27s_Pet_(2004_film)) | Theatrical | January 16, 2004 |
 
 # Studio Ghibli (Distributed by Disney)
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_large_square: | [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away) | Theatrical | September 20, 2002 |
 | :white_large_square: | [Howl's Moving Castle](https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)) | Theatrical | June 10, 2005 |
 | :white_large_square: | [Ponyo](https://en.wikipedia.org/wiki/Ponyo) | Theatrical | August 14, 2009 |
@@ -193,8 +193,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_large_square: | [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises) | Theatrical | February 21, 2014 |
 
 # Other Disney studio
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_check_mark: | [The Nightmare Before Christmas](https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas) | Theatrical | October 29, 1993 |
 | :white_check_mark: | [James and the Giant Peach](https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film)) | Theatrical | April 12, 1996 |
 | :white_check_mark: | [A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol_(2009_film)) | Theatrical | November 3, 2009  |
@@ -204,8 +204,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Strange Magic](https://en.wikipedia.org/wiki/Strange_Magic_(film)) | Theatrical | January 23, 2015 |
 
 # Third-party studio
-| Watched | Movie | Release Type | Release Date | Notes |
-| ------- | ----- | ------------ | ------------ | ----- |
+| Watched | Movie | Release Type | Release Date |
+| ------- | ----- | ------------ | ------------ |
 | :white_check_mark: | [Who Framed Roger Rabbit](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit) | Theatrical | June 22, 1988 |
 | :white_large_square: | [Valiant](https://en.wikipedia.org/wiki/Valiant_(film)) | Theatrical | August 19, 2005 |
 | :white_large_square: | [Roadside Romeo](https://en.wikipedia.org/wiki/Roadside_Romeo) | Theatrical | October 24, 2008 |
