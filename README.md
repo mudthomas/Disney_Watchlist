@@ -6,8 +6,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 
 
 # [Walt Disney Productions](https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios)
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
 | :white_large_square: | [Academy Award Review of Walt Disney Cartoons](https://en.wikipedia.org/wiki/Academy_Award_Review_of_Walt_Disney_Cartoons) | Theatrical | May 19, 1937 |
 | :white_check_mark: | [Snow White and the Seven Dwarfs](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)) | Theatrical | December 21, 1937 |
 | :white_check_mark: | [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio_(1940_film)) | Theatrical | February 7, 1940 |
@@ -77,12 +77,12 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Raya and the Last Dragon](https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon) | Theatrical | March 5, 2021 |
 | :white_check_mark: | [Encanto](https://en.wikipedia.org/wiki/Encanto_(film)) | Theatrical | November 24, 2021 |
 | :white_check_mark: | [Strange World](https://en.wikipedia.org/wiki/Strange_World_(film)) | Theatrical | November 23, 2022 |
-| :white_large_square: | [Wish](https://en.wikipedia.org/wiki/Wish_(film)) | Theatrical | November 22, 2023 |
-| :white_check_mark: | [Moana 2](https://en.wikipedia.org/wiki/Moana_2) | Theatrical | November 27, 2024 |
+| :white_large_square: | [Wish](https://en.wikipedia.org/wiki/Wish_(film)) | [Theatrical](https://www.disneyplus.com/en-gb/browse/entity-d376ee33-6f33-48cf-99bb-2132c3d8183f) | November 22, 2023 |
+| :white_check_mark: | [Moana 2](https://en.wikipedia.org/wiki/Moana_2) | [Theatrical](https://www.disneyplus.com/en-gb/browse/entity-a21ee2fc-421e-4839-bfcc-0bf2ba815875) | November 27, 2024 |
 
 # [Pixar Animation Studios](https://en.wikipedia.org/wiki/Pixar)
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
 | :white_check_mark: | [Toy Story](https://en.wikipedia.org/wiki/Toy_Story) | Theatrical | November 22, 1995 |
 | :white_check_mark: | [A Bug's Life](https://en.wikipedia.org/wiki/A_Bug%27s_Life) | Theatrical | November 25, 1998 |
 | :white_check_mark: | [Toy Story 2](https://en.wikipedia.org/wiki/Toy_Story_2) | Theatrical | November 24, 1999 |
@@ -114,43 +114,43 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 
 
 # 20th Century Fox Animation
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
 | :white_check_mark: | [Spies in Disguise](https://en.wikipedia.org/wiki/Spies_in_Disguise) | Theatrical | December 25, 2019 |
 | :white_check_mark: | [Ron's Gone Wrong](https://en.wikipedia.org/wiki/Ron%27s_Gone_Wrong) | Theatrical | October 22, 2021 |
 | :white_large_square: | [The Bob's Burgers Movie](https://en.wikipedia.org/wiki/The_Bob%27s_Burgers_Movie) | Theatrical | May 27, 2022 |
 
 # [Disneytoon Studios / Disney MovieToons](https://en.wikipedia.org/wiki/Disneytoon_Studios)
 
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
 | :white_check_mark: | [DuckTales the Movie: Treasure of the Lost Lamp](https://en.wikipedia.org/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp) | Theatrical | August 3, 1990 |
 | :white_check_mark: | [A Goofy Movie](https://en.wikipedia.org/wiki/A_Goofy_Movie) | Theatrical | April 7, 1995 |
 | :white_check_mark: | [Return to Never Land](https://en.wikipedia.org/wiki/Return_to_Never_Land) | Theatrical | February 15, 2002 |
-| :white_large_square: | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | Direct-To-Video | February 26, 2002 |
-| :white_large_square: | [The Hunchback of Notre Dame II](https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_II) | Direct-To-Video | March 19, 2002 |
-| :white_large_square: | [A Very Merry Pooh Year](https://en.wikipedia.org/wiki/A_Very_Merry_Pooh_Year) | Direct-To-Video | November 12, 2002 |
-| :white_large_square: | [101 Dalmatians II: Patch's London Adventure](https://en.wikipedia.org/wiki/101_Dalmatians_II:_Patch%27s_London_Adventure) | Direct-To-Video | January 21, 2003 |
+| :white_large_square: | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | DTV | February 26, 2002 |
+| :white_large_square: | [The Hunchback of Notre Dame II](https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_II) | DTV | March 19, 2002 |
+| :white_large_square: | [A Very Merry Pooh Year](https://en.wikipedia.org/wiki/A_Very_Merry_Pooh_Year) | DTV | November 12, 2002 |
+| :white_large_square: | [101 Dalmatians II: Patch's London Adventure](https://en.wikipedia.org/wiki/101_Dalmatians_II:_Patch%27s_London_Adventure) | DTV | January 21, 2003 |
 | :white_check_mark: | [The Jungle Book 2](https://en.wikipedia.org/wiki/The_Jungle_Book_2) | Theatrical | February 14, 2003 |
 | :white_check_mark: | [Piglet's Big Movie](https://en.wikipedia.org/wiki/Piglet%27s_Big_Movie) | Theatrical | March 21, 2003 |
-| :white_large_square: | [Atlantis: Milo's Return](https://en.wikipedia.org/wiki/Atlantis:_Milo%27s_Return) | Direct-To-Video | May 20, 2003 |
-| :white_large_square: | [The Lion King 1½](https://en.wikipedia.org/wiki/The_Lion_King_1%C2%BD) | Direct-To-Video | February 10, 2004 |
-| :white_large_square: | [Winnie the Pooh: Springtime with Roo](https://en.wikipedia.org/wiki/Winnie_the_Pooh:_Springtime_with_Roo) | Direct-To-Video | March 9, 2004 |
-| :white_large_square: | [Mickey, Donald, Goofy: The Three Musketeers](https://en.wikipedia.org/wiki/Mickey,_Donald,_Goofy:_The_Three_Musketeers) | Direct-To-Video | August 17, 2004 |
-| :white_large_square: | [Mickey's Twice Upon a Christmas](https://en.wikipedia.org/wiki/Mickey%27s_Twice_Upon_a_Christmas) | Direct-To-Video | November 9, 2004 |
-| :white_large_square: | [Mulan II](https://en.wikipedia.org/wiki/Mulan_II) | Direct-To-Video | February 1, 2005 |
+| :white_large_square: | [Atlantis: Milo's Return](https://en.wikipedia.org/wiki/Atlantis:_Milo%27s_Return) | DTV | May 20, 2003 |
+| :white_large_square: | [The Lion King 1½](https://en.wikipedia.org/wiki/The_Lion_King_1%C2%BD) | DTV | February 10, 2004 |
+| :white_large_square: | [Winnie the Pooh: Springtime with Roo](https://en.wikipedia.org/wiki/Winnie_the_Pooh:_Springtime_with_Roo) | DTV | March 9, 2004 |
+| :white_large_square: | [Mickey, Donald, Goofy: The Three Musketeers](https://en.wikipedia.org/wiki/Mickey,_Donald,_Goofy:_The_Three_Musketeers) | DTV | August 17, 2004 |
+| :white_large_square: | [Mickey's Twice Upon a Christmas](https://en.wikipedia.org/wiki/Mickey%27s_Twice_Upon_a_Christmas) | DTV | November 9, 2004 |
+| :white_large_square: | [Mulan II](https://en.wikipedia.org/wiki/Mulan_II) | DTV | February 1, 2005 |
 | :white_check_mark: | [Pooh's Heffalump Movie](https://en.wikipedia.org/wiki/Pooh%27s_Heffalump_Movie) | Theatrical | February 11, 2005 |
-| :white_large_square: | [Tarzan II](https://en.wikipedia.org/wiki/Tarzan_II) | Direct-To-Video | 	June 14, 2005 |
-| :white_large_square: | [Lilo & Stitch 2: Stitch Has a Glitch](https://en.wikipedia.org/wiki/Lilo_%26_Stitch_2:_Stitch_Has_a_Glitch) | Direct-To-Video | August 30, 2005 |
-| :white_large_square: | [Pooh's Heffalump Halloween Movie](https://en.wikipedia.org/wiki/Pooh%27s_Heffalump_Halloween_Movie) | Direct-To-Video | September 13, 2005 |
-| :white_large_square: | [Kronk's New Groove](https://en.wikipedia.org/wiki/Kronk%27s_New_Groove) | Direct-To-Video | December 13, 2005 |
+| :white_large_square: | [Tarzan II](https://en.wikipedia.org/wiki/Tarzan_II) | DTV | 	June 14, 2005 |
+| :white_large_square: | [Lilo & Stitch 2: Stitch Has a Glitch](https://en.wikipedia.org/wiki/Lilo_%26_Stitch_2:_Stitch_Has_a_Glitch) | DTV | August 30, 2005 |
+| :white_large_square: | [Pooh's Heffalump Halloween Movie](https://en.wikipedia.org/wiki/Pooh%27s_Heffalump_Halloween_Movie) | DTV | September 13, 2005 |
+| :white_large_square: | [Kronk's New Groove](https://en.wikipedia.org/wiki/Kronk%27s_New_Groove) | DTV | December 13, 2005 |
 | :white_check_mark: | [Bambi II](https://en.wikipedia.org/wiki/Bambi_II) | Theatrical | January 26, 2006 |
 | :white_check_mark: | [The Wild](https://en.wikipedia.org/wiki/The_Wild) | Theatrical | April 14, 2006 |
-| :white_large_square: | [Brother Bear 2](https://en.wikipedia.org/wiki/Brother_Bear_2) | Direct-To-Video | August 29, 2006 |
-| :white_large_square: | [The Fox and the Hound 2](https://en.wikipedia.org/wiki/The_Fox_and_the_Hound_2) | Direct-To-Video | December 12, 2006 |
-| :white_large_square: | [Cinderella III: A Twist in Time](https://en.wikipedia.org/wiki/Cinderella_III:_A_Twist_in_Time) | Direct-To-Video | February 6, 2007 |
-| :white_large_square: | [Disney Princess Enchanted Tales: Follow Your Dreams](https://en.wikipedia.org/wiki/Disney_Princess_Enchanted_Tales:_Follow_Your_Dreams) | Direct-To-Video | September 4, 2007 |
-| :white_large_square: | [The Little Mermaid: Ariel's Beginning](https://en.wikipedia.org/wiki/The_Little_Mermaid:_Ariel%27s_Beginning) | Direct-To-Video | August 26, 2008 |
+| :white_large_square: | [Brother Bear 2](https://en.wikipedia.org/wiki/Brother_Bear_2) | DTV | August 29, 2006 |
+| :white_large_square: | [The Fox and the Hound 2](https://en.wikipedia.org/wiki/The_Fox_and_the_Hound_2) | DTV | December 12, 2006 |
+| :white_large_square: | [Cinderella III: A Twist in Time](https://en.wikipedia.org/wiki/Cinderella_III:_A_Twist_in_Time) | DTV | February 6, 2007 |
+| :white_large_square: | [Disney Princess Enchanted Tales: Follow Your Dreams](https://en.wikipedia.org/wiki/Disney_Princess_Enchanted_Tales:_Follow_Your_Dreams) | DTV | September 4, 2007 |
+| :white_large_square: | [The Little Mermaid: Ariel's Beginning](https://en.wikipedia.org/wiki/The_Little_Mermaid:_Ariel%27s_Beginning) | DTV | August 26, 2008 |
 | :white_check_mark: | [Tinker Bell](https://en.wikipedia.org/wiki/Tinker_Bell_(film)) | Theatrical | September 18, 2008 |
 | :white_check_mark: | [Tinker Bell and the Lost Treasure](https://en.wikipedia.org/wiki/Tinker_Bell_and_the_Lost_Treasure) | Theatrical | September 3, 2009 |
 | :white_check_mark: | [Tinker Bell and the Great Fairy Rescue](https://en.wikipedia.org/wiki/Tinker_Bell_and_the_Great_Fairy_Rescue) | Theatrical | August 13, 2010  |
@@ -160,31 +160,31 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Planes: Fire & Rescue](https://en.wikipedia.org/wiki/Planes:_Fire_%26_Rescue) | Theatrical | July 18, 2014 |
 | :white_check_mark: | [Tinker Bell and the Legend of the NeverBeast](https://en.wikipedia.org/wiki/Tinker_Bell_and_the_Legend_of_the_NeverBeast) | Theatrical | March 3, 2015 |
 
-<!-- | :white_large_square: | [Title](Link) | Direct-To-Video | DATE) | -->
+<!-- | :white_large_square: | [Title](Link) | DTV | DATE) | -->
 
 
 # [Walt Disney Television Animation](https://en.wikipedia.org/wiki/Disney_Television_Animation)
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
-| :white_large_square: | [The Return of Jafar](https://en.wikipedia.org/wiki/The_Return_of_Jafar) | Direct-To-Video | May 20, 1994 |
-| :white_large_square: | [Aladdin and the King of Thieves](https://en.wikipedia.org/wiki/Aladdin_and_the_King_of_Thieves) | Direct-To-Video | August 13, 1996 |
-| :white_large_square: | [Pooh's Grand Adventure: The Search for Christopher Robin](https://en.wikipedia.org/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin) | Direct-To-Video | August 5, 1997 |
-| :white_large_square: | [Beauty and the Beast: The Enchanted Christmas](https://en.wikipedia.org/wiki/Beauty_and_the_Beast:_The_Enchanted_Christmas) | Direct-To-Video | November 11, 1997 |
-| :white_large_square: | [Belle's Magical World](https://en.wikipedia.org/wiki/Belle%27s_Magical_World) | Direct-To-Video | February 17, 1998 |
-| :white_large_square: | [Pocahontas II: Journey to a New World](https://en.wikipedia.org/wiki/Pocahontas_II:_Journey_to_a_New_World) | Direct-To-Video | August 25, 1998 |
-| :white_large_square: | [The Lion King II: Simba's Pride](https://en.wikipedia.org/wiki/The_Lion_King_II:_Simba%27s_Pride) | Direct-To-Video | October 27, 1998 |
-| :white_large_square: | [Mickey's Once Upon a Christmas](https://en.wikipedia.org/wiki/Mickey%27s_Once_Upon_a_Christmas) | Direct-To-Video | November 9, 1999 |
-| :white_large_square: | [Seasons of Giving](https://en.wikipedia.org/wiki/Seasons_of_Giving) | Direct-To-Video | November 9, 1999 |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
+| :white_large_square: | [The Return of Jafar](https://en.wikipedia.org/wiki/The_Return_of_Jafar) | DTV | May 20, 1994 |
+| :white_large_square: | [Aladdin and the King of Thieves](https://en.wikipedia.org/wiki/Aladdin_and_the_King_of_Thieves) | DTV | August 13, 1996 |
+| :white_large_square: | [Pooh's Grand Adventure: The Search for Christopher Robin](https://en.wikipedia.org/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin) | DTV | August 5, 1997 |
+| :white_large_square: | [Beauty and the Beast: The Enchanted Christmas](https://en.wikipedia.org/wiki/Beauty_and_the_Beast:_The_Enchanted_Christmas) | DTV | November 11, 1997 |
+| :white_large_square: | [Belle's Magical World](https://en.wikipedia.org/wiki/Belle%27s_Magical_World) | DTV | February 17, 1998 |
+| :white_large_square: | [Pocahontas II: Journey to a New World](https://en.wikipedia.org/wiki/Pocahontas_II:_Journey_to_a_New_World) | DTV | August 25, 1998 |
+| :white_large_square: | [The Lion King II: Simba's Pride](https://en.wikipedia.org/wiki/The_Lion_King_II:_Simba%27s_Pride) | DTV | October 27, 1998 |
+| :white_large_square: | [Mickey's Once Upon a Christmas](https://en.wikipedia.org/wiki/Mickey%27s_Once_Upon_a_Christmas) | DTV | November 9, 1999 |
+| :white_large_square: | [Seasons of Giving](https://en.wikipedia.org/wiki/Seasons_of_Giving) | DTV | November 9, 1999 |
 | :white_check_mark: | [Doug's 1st Movie](https://en.wikipedia.org/wiki/Doug%27s_1st_Movie) | Theatrical | March 26, 1999 |
 | :white_check_mark: | [The Tigger Movie](https://en.wikipedia.org/wiki/The_Tigger_Movie) | Theatrical | February 11, 2000 |
-| :white_large_square: | [An Extremely Goofy Movie](https://en.wikipedia.org/wiki/An_Extremely_Goofy_Movie) | Direct-To-Video | February 29, 2000 |
-| :white_large_square: | [The Little Mermaid II: Return to the Sea](https://en.wikipedia.org/wiki/The_Little_Mermaid_II:_Return_to_the_Sea) | Direct-To-Video | September 19, 2000 |
+| :white_large_square: | [An Extremely Goofy Movie](https://en.wikipedia.org/wiki/An_Extremely_Goofy_Movie) | DTV | February 29, 2000 |
+| :white_large_square: | [The Little Mermaid II: Return to the Sea](https://en.wikipedia.org/wiki/The_Little_Mermaid_II:_Return_to_the_Sea) | DTV | September 19, 2000 |
 | :white_check_mark: | [Recess: School's Out](https://en.wikipedia.org/wiki/Recess:_School%27s_Out) | Theatrical | February 16, 2001 |
 | :white_check_mark: | [Teacher's Pet](https://en.wikipedia.org/wiki/Teacher%27s_Pet_(2004_film)) | Theatrical | January 16, 2004 |
 
 # Studio Ghibli (Distributed by Disney)
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
 | :white_large_square: | [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away) | Theatrical | September 20, 2002 |
 | :white_large_square: | [Howl's Moving Castle](https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)) | Theatrical | June 10, 2005 |
 | :white_large_square: | [Ponyo](https://en.wikipedia.org/wiki/Ponyo) | Theatrical | August 14, 2009 |
@@ -193,8 +193,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_large_square: | [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises) | Theatrical | February 21, 2014 |
 
 # [Other Disney studios](https://en.wikipedia.org/wiki/List_of_animation_studios_owned_by_the_Walt_Disney_Company)
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
 | :white_check_mark: | [The Nightmare Before Christmas](https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas) | Theatrical | October 29, 1993 |
 | :white_check_mark: | [James and the Giant Peach](https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film)) | Theatrical | April 12, 1996 |
 | :white_check_mark: | [A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol_(2009_film)) | Theatrical | November 3, 2009  |
@@ -204,8 +204,8 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Strange Magic](https://en.wikipedia.org/wiki/Strange_Magic_(film)) | Theatrical | January 23, 2015 |
 
 # Third-party studio
-| Watched | Movie | Release Type | Release Date |
-| ------- | ----- | ------------ | ------------ |
+|   | Movie | Release Type | Release Date |
+| - | ----- | ------------ | ------------ |
 | :white_check_mark: | [Who Framed Roger Rabbit](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit) | Theatrical | June 22, 1988 |
 | :white_large_square: | [Valiant](https://en.wikipedia.org/wiki/Valiant_(film)) | Theatrical | August 19, 2005 |
 | :white_large_square: | [Roadside Romeo](https://en.wikipedia.org/wiki/Roadside_Romeo) | Theatrical | October 24, 2008 |
