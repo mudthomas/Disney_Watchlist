@@ -192,7 +192,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_large_square: | [Arrietty](https://en.wikipedia.org/wiki/Arrietty) | Theatrical | February 17, 2012 |
 | :white_large_square: | [The Wind Rises](https://en.wikipedia.org/wiki/The_Wind_Rises) | Theatrical | February 21, 2014 |
 
-# Other Disney studio
+# [Other Disney studios](https://en.wikipedia.org/wiki/List_of_animation_studios_owned_by_the_Walt_Disney_Company)
 | Watched | Movie | Release Type | Release Date |
 | ------- | ----- | ------------ | ------------ |
 | :white_check_mark: | [The Nightmare Before Christmas](https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas) | Theatrical | October 29, 1993 |
