@@ -127,7 +127,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [DuckTales the Movie: Treasure of the Lost Lamp](https://en.wikipedia.org/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp) | Theatrical | August 3, 1990 |
 | :white_check_mark: | [A Goofy Movie](https://en.wikipedia.org/wiki/A_Goofy_Movie) | Theatrical | April 7, 1995 |
 | :white_check_mark: | [Return to Never Land](https://en.wikipedia.org/wiki/Return_to_Never_Land) | Theatrical | February 15, 2002 |
-| :white_large_square: | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | DTV | February 26, 2002 |
+| ✅: | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | DTV | February 26, 2002 |
 | :white_large_square: | [The Hunchback of Notre Dame II](https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_II) | DTV | March 19, 2002 |
 | :white_large_square: | [A Very Merry Pooh Year](https://en.wikipedia.org/wiki/A_Very_Merry_Pooh_Year) | DTV | November 12, 2002 |
 | :white_large_square: | [101 Dalmatians II: Patch's London Adventure](https://en.wikipedia.org/wiki/101_Dalmatians_II:_Patch%27s_London_Adventure) | DTV | January 21, 2003 |
