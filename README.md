@@ -127,7 +127,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [DuckTales the Movie: Treasure of the Lost Lamp](https://en.wikipedia.org/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp) | Theatrical | August 3, 1990 |
 | :white_check_mark: | [A Goofy Movie](https://en.wikipedia.org/wiki/A_Goofy_Movie) | Theatrical | April 7, 1995 |
 | :white_check_mark: | [Return to Never Land](https://en.wikipedia.org/wiki/Return_to_Never_Land) | Theatrical | February 15, 2002 |
-| ✅: | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | DTV | February 26, 2002 |
+| ✅ | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | DTV | February 26, 2002 |
 | :white_large_square: | [The Hunchback of Notre Dame II](https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_II) | DTV | March 19, 2002 |
 | :white_large_square: | [A Very Merry Pooh Year](https://en.wikipedia.org/wiki/A_Very_Merry_Pooh_Year) | DTV | November 12, 2002 |
 | :white_large_square: | [101 Dalmatians II: Patch's London Adventure](https://en.wikipedia.org/wiki/101_Dalmatians_II:_Patch%27s_London_Adventure) | DTV | January 21, 2003 |
@@ -148,7 +148,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [The Wild](https://en.wikipedia.org/wiki/The_Wild) | Theatrical | April 14, 2006 |
 | :white_large_square: | [Brother Bear 2](https://en.wikipedia.org/wiki/Brother_Bear_2) | DTV | August 29, 2006 |
 | :white_large_square: | [The Fox and the Hound 2](https://en.wikipedia.org/wiki/The_Fox_and_the_Hound_2) | DTV | December 12, 2006 |
-| :white_large_square: | [Cinderella III: A Twist in Time](https://en.wikipedia.org/wiki/Cinderella_III:_A_Twist_in_Time) | DTV | February 6, 2007 |
+| :white_check_mark: | [Cinderella III: A Twist in Time](https://en.wikipedia.org/wiki/Cinderella_III:_A_Twist_in_Time) | DTV | February 6, 2007 |
 | :white_large_square: | [Disney Princess Enchanted Tales: Follow Your Dreams](https://en.wikipedia.org/wiki/Disney_Princess_Enchanted_Tales:_Follow_Your_Dreams) | DTV | September 4, 2007 |
 | :white_large_square: | [The Little Mermaid: Ariel's Beginning](https://en.wikipedia.org/wiki/The_Little_Mermaid:_Ariel%27s_Beginning) | DTV | August 26, 2008 |
 | :white_check_mark: | [Tinker Bell](https://en.wikipedia.org/wiki/Tinker_Bell_(film)) | Theatrical | September 18, 2008 |
