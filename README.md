@@ -167,7 +167,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 |   | Movie | Release | Date |
 | - | ----- | ------------ | ------------ |
 | :white_check_mark: | [The Return of Jafar](https://en.wikipedia.org/wiki/The_Return_of_Jafar) | DTV | May 20, 1994 |
-| :white_large_square: | [Aladdin and the King of Thieves](https://en.wikipedia.org/wiki/Aladdin_and_the_King_of_Thieves) | DTV | August 13, 1996 |
+| :white_check_mark: | [Aladdin and the King of Thieves](https://en.wikipedia.org/wiki/Aladdin_and_the_King_of_Thieves) | DTV | August 13, 1996 |
 | :white_large_square: | [Pooh's Grand Adventure: The Search for Christopher Robin](https://en.wikipedia.org/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin) | DTV | August 5, 1997 |
 | :white_check_mark: | [Beauty and the Beast: The Enchanted Christmas](https://en.wikipedia.org/wiki/Beauty_and_the_Beast:_The_Enchanted_Christmas) | DTV | November 11, 1997 |
 | :white_large_square: | [Belle's Magical World](https://en.wikipedia.org/wiki/Belle%27s_Magical_World) | DTV | February 17, 1998 |
