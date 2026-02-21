@@ -127,7 +127,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [DuckTales the Movie: Treasure of the Lost Lamp](https://en.wikipedia.org/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp) | Theatrical | August 3, 1990 |
 | :white_check_mark: | [A Goofy Movie](https://en.wikipedia.org/wiki/A_Goofy_Movie) | Theatrical | April 7, 1995 |
 | :white_check_mark: | [Return to Never Land](https://en.wikipedia.org/wiki/Return_to_Never_Land) | Theatrical | February 15, 2002 |
-| ✅ | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | DTV | February 26, 2002 |
+| :white_check_mark: | [Cinderella II: Dreams Come True](https://en.wikipedia.org/wiki/Cinderella_II:_Dreams_Come_True) | DTV | February 26, 2002 |
 | :white_large_square: | [The Hunchback of Notre Dame II](https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_II) | DTV | March 19, 2002 |
 | :white_large_square: | [A Very Merry Pooh Year](https://en.wikipedia.org/wiki/A_Very_Merry_Pooh_Year) | DTV | November 12, 2002 |
 | :white_large_square: | [101 Dalmatians II: Patch's London Adventure](https://en.wikipedia.org/wiki/101_Dalmatians_II:_Patch%27s_London_Adventure) | DTV | January 21, 2003 |
@@ -168,7 +168,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | - | ----- | ------------ | ------------ |
 | :white_check_mark: | [The Return of Jafar](https://en.wikipedia.org/wiki/The_Return_of_Jafar) | DTV | May 20, 1994 |
 | :white_check_mark: | [Aladdin and the King of Thieves](https://en.wikipedia.org/wiki/Aladdin_and_the_King_of_Thieves) | DTV | August 13, 1996 |
-| :white_large_square: | [Pooh's Grand Adventure: The Search for Christopher Robin](https://en.wikipedia.org/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin) | DTV | August 5, 1997 |
+| :white_check_mark: | [Pooh's Grand Adventure: The Search for Christopher Robin](https://en.wikipedia.org/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin) | DTV | August 5, 1997 |
 | :white_check_mark: | [Beauty and the Beast: The Enchanted Christmas](https://en.wikipedia.org/wiki/Beauty_and_the_Beast:_The_Enchanted_Christmas) | DTV | November 11, 1997 |
 | :white_large_square: | [Belle's Magical World](https://en.wikipedia.org/wiki/Belle%27s_Magical_World) | DTV | February 17, 1998 |
 | :white_large_square: | [Pocahontas II: Journey to a New World](https://en.wikipedia.org/wiki/Pocahontas_II:_Journey_to_a_New_World) | DTV | August 25, 1998 |
