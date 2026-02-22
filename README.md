@@ -171,7 +171,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Pooh's Grand Adventure: The Search for Christopher Robin](https://en.wikipedia.org/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin) | DTV | August 5, 1997 |
 | :white_check_mark: | [Beauty and the Beast: The Enchanted Christmas](https://en.wikipedia.org/wiki/Beauty_and_the_Beast:_The_Enchanted_Christmas) | DTV | November 11, 1997 |
 | :white_large_square: | [Belle's Magical World](https://en.wikipedia.org/wiki/Belle%27s_Magical_World) | DTV | February 17, 1998 |
-| :white_large_square: | [Pocahontas II: Journey to a New World](https://en.wikipedia.org/wiki/Pocahontas_II:_Journey_to_a_New_World) | DTV | August 25, 1998 |
+| :white_check_mark: | [Pocahontas II: Journey to a New World](https://en.wikipedia.org/wiki/Pocahontas_II:_Journey_to_a_New_World) | DTV | August 25, 1998 |
 | :white_large_square: | [The Lion King II: Simba's Pride](https://en.wikipedia.org/wiki/The_Lion_King_II:_Simba%27s_Pride) | DTV | October 27, 1998 |
 | :white_large_square: | [Mickey's Once Upon a Christmas](https://en.wikipedia.org/wiki/Mickey%27s_Once_Upon_a_Christmas) | DTV | November 9, 1999 |
 | :white_large_square: | [Seasons of Giving](https://en.wikipedia.org/wiki/Seasons_of_Giving) | DTV | November 9, 1999 |
