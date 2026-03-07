@@ -134,7 +134,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [The Jungle Book 2](https://en.wikipedia.org/wiki/The_Jungle_Book_2) | Theatrical | February 14, 2003 |
 | :white_check_mark: | [Piglet's Big Movie](https://en.wikipedia.org/wiki/Piglet%27s_Big_Movie) | Theatrical | March 21, 2003 |
 | :white_large_square: | [Atlantis: Milo's Return](https://en.wikipedia.org/wiki/Atlantis:_Milo%27s_Return) | DTV | May 20, 2003 |
-| :white_large_square: | [The Lion King 1½](https://en.wikipedia.org/wiki/The_Lion_King_1%C2%BD) | DTV | February 10, 2004 |
+| :white_check_mark: | [The Lion King 1½](https://en.wikipedia.org/wiki/The_Lion_King_1%C2%BD) | DTV | February 10, 2004 |
 | :white_large_square: | [Winnie the Pooh: Springtime with Roo](https://en.wikipedia.org/wiki/Winnie_the_Pooh:_Springtime_with_Roo) | DTV | March 9, 2004 |
 | :white_large_square: | [Mickey, Donald, Goofy: The Three Musketeers](https://en.wikipedia.org/wiki/Mickey,_Donald,_Goofy:_The_Three_Musketeers) | DTV | August 17, 2004 |
 | :white_large_square: | [Mickey's Twice Upon a Christmas](https://en.wikipedia.org/wiki/Mickey%27s_Twice_Upon_a_Christmas) | DTV | November 9, 2004 |
