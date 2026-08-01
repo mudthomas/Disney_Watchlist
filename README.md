@@ -77,7 +77,7 @@ Because of the fickle nature of wikipedia articles I decided it was easier to ju
 | :white_check_mark: | [Raya and the Last Dragon](https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon) | Theatrical | March 5, 2021 |
 | :white_check_mark: | [Encanto](https://en.wikipedia.org/wiki/Encanto_(film)) | Theatrical | November 24, 2021 |
 | :white_check_mark: | [Strange World](https://en.wikipedia.org/wiki/Strange_World_(film)) | Theatrical | November 23, 2022 |
-| :white_large_square: | [Wish](https://en.wikipedia.org/wiki/Wish_(film)) | [Theatrical](https://www.disneyplus.com/en-gb/browse/entity-d376ee33-6f33-48cf-99bb-2132c3d8183f) | November 22, 2023 |
+| :white_check_mark: | [Wish](https://en.wikipedia.org/wiki/Wish_(film)) | [Theatrical](https://www.disneyplus.com/en-gb/browse/entity-d376ee33-6f33-48cf-99bb-2132c3d8183f) | November 22, 2023 |
 | :white_check_mark: | [Moana 2](https://en.wikipedia.org/wiki/Moana_2) | [Theatrical](https://www.disneyplus.com/en-gb/browse/entity-a21ee2fc-421e-4839-bfcc-0bf2ba815875) | November 27, 2024 |
 
 # [Pixar Animation Studios](https://en.wikipedia.org/wiki/Pixar)
